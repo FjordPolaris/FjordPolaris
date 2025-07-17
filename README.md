@@ -2,4 +2,4 @@
 
 `GAME DEVELOPER`
 
-![Uploading RobloxScreenShot20250124_170540794.png…]()
+![Picture](https://github.com/FjordPolaris/FjordPolaris/blob/main/thumbnail.png)
